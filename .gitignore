@@ -140,5 +140,7 @@ dist
 
 # SvelteKit build / generate output
 .svelte-kit
+.prettierrc
+package-lock.json
 
 # End of https://www.toptal.com/developers/gitignore/api/node
